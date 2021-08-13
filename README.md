@@ -1,4 +1,11 @@
-### Hi there 👋
+### What kind of witch lives on the beach?
+#### A sandwich. 😄
+
+<!-- (주) 유비온 연수생 2021.06.22~2021.08.17 -->
+
+[![Tech Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://blog.naver.com/raininnight)](https://blog.naver.com/raininnight)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC_BYa1m2Om3654u4SPDi__Q)](https://www.youtube.com/channel/UC_BYa1m2Om3654u4SPDi__Q)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shqkd1492@gmail.com)](mailto:shqkd1492@gmail.com)
 
 <!--
 **korobopolly/korobopolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
