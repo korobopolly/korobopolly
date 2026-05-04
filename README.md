@@ -137,4 +137,4 @@ Java / Spring Boot · React · Python · Shell 을 주로 쓰며, AI 도구(Clau
 ## Contact
 
 - Blog : <https://korobopolly.github.io>
-- Email : ofitsolution.management@gmail.com
+- Email : shqkd1492@gmail.com
